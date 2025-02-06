@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mtorres\\desktop\\examen - consoleapp1\\consoleapp1\\services\\cocktailapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\cocktailapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mtorres\\desktop\\examen - consoleapp1\\consoleapp1\\db\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\db\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mtorres\\desktop\\examen - consoleapp1\\consoleapp1\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mtorres\\desktop\\examen - consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0600B8F6-9404-46FE-B883-591BAD4425F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:19:30.669Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\Db\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:02:07.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cocktail.cs",
+              "DocumentMoniker": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Db\\Cocktail.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Db\\Cocktail.cs",
+              "ToolTip": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Db\\Cocktail.cs",
+              "RelativeToolTip": "ConsoleApp1\\Db\\Cocktail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:02:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CocktailApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Services\\CocktailApiClient.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\CocktailApiClient.cs",
+              "ToolTip": "C:\\Users\\mtorres\\Desktop\\Examen - ConsoleApp1\\ConsoleApp1\\Services\\CocktailApiClient.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\CocktailApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:48:34.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
